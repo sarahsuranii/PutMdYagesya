@@ -44,32 +44,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/whooputt'
-global.sgh = 'https://github.com/Putbotz'
-global.sgc = 'https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://nhentai.net/g/365296/'
+global.sig = '-'
+global.sgh = '-'
+global.sgc = '-'
+global.sdc = '-'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
 global.pdana = 'gaada'
 global.povo = 'gaada'
 global.pgopay = 'gaada'
-global.ppulsa = '60147366955 maxis'
-global.ppulsa2 = '60147366955 maxis'
+global.ppulsa = '60177301683 maxis'
+global.ppulsa2 = '60182720133 umobile'
 global.psaweria = 'gaada'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '601121071453'
-global.nomorown = '60147366955'
-global.namebot = 'Sasyi'
-global.nameown = 'Sasyi By Putbotz'
+global.nomorbot = '60177301683'
+global.nomorown = '60182720133'
+global.namebot = 'ariesbitz'
+global.nameown = 'luna By Putbotz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['60147366955'],
-  ['601169466091'],
-  ['60147366955', 'Sasyi by Putbotz ! 🦖', true]
+  ['60182720133'],
+  ['60177301683'],
+  ['60182720133', 'luna by Putbotz ! 🦖', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
