@@ -61,15 +61,15 @@ global.psaweria = 'gaada'
 /*============== NOMOR ==============*/
 global.nomorbot = '60177301683'
 global.nomorown = '60182720133'
-global.namebot = 'ariesbitz'
-global.nameown = 'luna By Putbotz'
+global.namebot = 'ariesbotz'
+global.nameown = 'luna by ariesbotz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['60182720133'],
   ['60177301683'],
-  ['60182720133', 'luna by Putbotz ! 🦖', true]
+  ['60182720133', 'luna by ariesbotz ! 🦖', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,13 +115,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '© Sasyi' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Sasyi🦖˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺Sasyi By Putbotz'
+global.wm = '© ariesbotz' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ariesbotz🦖˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺luna by ariesbotz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Sasyi🦖˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.author = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Sasyi🦖˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.titlebot = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘aries🦖˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.author = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘aries🦖˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
 
 /*============== LOGO ==============*/
